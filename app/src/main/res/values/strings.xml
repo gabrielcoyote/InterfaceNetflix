@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">InterfaceNetflix</string>
+    <string name="Menu_Mensagem">Mensagem</string>
+    <string name="menu_volume">Volume</string>
+    <string name="Menu_Favorito">Favorito</string>
+    <string name="Menu_Conteudo">Conteudo</string>
+    <string name="Nome_Serie">House of Cards</string>
+    <string name="Temporada">S1:E2</string>
+</resources>
